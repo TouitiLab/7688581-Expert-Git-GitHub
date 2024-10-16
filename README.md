@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Voici un text A :
+Voici un text BBB :
 
 
 ```
